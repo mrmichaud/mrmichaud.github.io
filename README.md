@@ -1,18 +1,17 @@
 # mrmichaud.github.io
 
-# My portfolio
+# Hi there, I'm Monica Michaud!
 
-My name is [Monica Michaud](https://www.facebook.com/monica.michaud.92)
+I'm studying Computer Science &amp Math. I enjoy creating movies, traveling, reading, &amp drawing. I'm passionate about being creative &amp I love exploring technology!(/about)[Read more about my life...]
 
-* [Link One](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
+Find me on Facebook at: [Monica Michaud](https://www.facebook.com/monica.michaud.92)
 
-* [Eye Heart New York](http://tumblr.eyeheartnewyork.com) - A Tumblr of my New York photos
+* [Fort Hays State Honor Society](http://fhhs.fhsu.edu/)  - I have enjoyed managing the FHHS site for over two years now.
+* [Fort Hays State Honors College](https://www.fhsu.edu/honorscollege/) - Recently I began overseeing the workings of this website as well!
 
 * [I Heart NY Museums](http://iheartnymuseums.com/) - A really old interactive map showing open/free hours at local museums
 
-A picture of someone playing the didgeridoo
-
-![alt text](http://i.imgur.com/2i35DTo.jpg)
+(http://i.imgur.com/2i35DTo.jpg) 
 
 Here's video of that performance:
 
