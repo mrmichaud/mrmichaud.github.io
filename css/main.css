@@ -31,6 +31,7 @@ p {
 }
 .picture1 {
     float: left;
+    padding: 10px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
