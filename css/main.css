@@ -27,7 +27,9 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    float: right;
+}
+.picture1 {
+    float: left;
 }
 footer {
     border-top: 1px solid #d5d5d5;
